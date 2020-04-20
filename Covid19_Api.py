@@ -72,7 +72,7 @@ class CountryWise:
         x=[i for i in df.location[:30]]
         plt.bar(x,y,color='red')
         plt.xticks(x,x,rotation=90)
-        plt.title('Total Dead Cases Based on Countries')
+        plt.title('Total Death Cases Based on Countries')
         plt.show()
         
     #recovered
