@@ -4,8 +4,14 @@ Hey.. I'm back with an Data Science project on Covid19 insights using Python
 
 # Features :-
 1. Get Live Overview of Covid19 cases :-
+    
+    ![overview](https://user-images.githubusercontent.com/49696449/79738968-210bd280-831b-11ea-9c23-4a2c5a95c68a.jpg)
 
-2. Graphs that Show Real time Cases based on location :-
+2.Tabular Data :-
+
+   ![Annotation 2020-04-20 152835](https://user-images.githubusercontent.com/49696449/79739316-a5f6ec00-831b-11ea-89ba-7631231ed3b9.jpg)
+
+3. Graphs that Show Real time Cases based on location :-
        
 	 Total Confirmed Cases :
 	 
