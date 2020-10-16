@@ -41,4 +41,9 @@ Just make Changes wherever necessary and create a pull request
 
 Happy learning....
 
-Developed by DALPAT I
+### Created & Maintained By
+
+[Dalpat I](https://github.com/dalpat98)
+([Instagram](https://www.instagram.com/dalpat_chaudhary__/))
+
+> If you found this project helpful or you learned something from the source code and want to thank me, consider staring the repo. :heart:
