@@ -6,6 +6,9 @@
 	Get tabular data, Graph data based on location with different parameters such as Total number of confirmed Cases,
 	Total Death Cases and Total Recovered Cases
 
+
+### Show some :heart: and star the repo to support the project
+
 # Features :-
 # 1. Get Live Overview of Covid19 cases :-
     
@@ -30,6 +33,12 @@ Total Death Cases
 Total Recovered Cases
          ![recovered](https://user-images.githubusercontent.com/49696449/79738687-b78bc400-831a-11ea-9189-da0ddd329564.jpg)
 	 
+	 
+	 
+### :heart: Found this project useful?
+
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
+ 
 # Dependencies :-
 
 		Stable internet connection for getting Live Data From API
